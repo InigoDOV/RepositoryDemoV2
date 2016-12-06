@@ -3,7 +3,7 @@ select sysdate from dual;
 --First Modification
 select * from fnd_product_groups;
 
---Second Modificacion
+--Second Modif
 select * from v$instance;
 
 --Nuevo comentario
@@ -11,3 +11,5 @@ select * from v$instance;
  --New comment tras reset hard
  
  --Nueva modificacion en branch Test
+ 
+ --Nuevas modificaciones en Rama recien creada Text
