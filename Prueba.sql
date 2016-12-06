@@ -11,5 +11,5 @@ select * from v$instance;
  --New comment tras reset hard
  
  --Nueva modificacion en branch Test
- 
+  
  --Nuevas modificaciones en Rama recien creada Text
